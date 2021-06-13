@@ -15,7 +15,7 @@
           <a href="https://www.instagram.com/pierrickcalvez/" target="_blank">Instagram</a>
         </li>
         <li>
-          <a href="/log" target="_blank">Log</a>
+          <a href="" target="_blank">Log</a>
         </li>
       </ul>
     </nav>

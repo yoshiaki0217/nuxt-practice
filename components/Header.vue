@@ -22,7 +22,7 @@
               <a href="/studio">Studio</a>
             </li>
             <li>
-              <a href="journal">Journal</a>
+              <a href="/journal">Journal</a>
             </li>
           </ul>
         </nav>
