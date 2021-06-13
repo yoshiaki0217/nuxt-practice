@@ -19,7 +19,7 @@
               <a href="/Commissions">Commissions</a>
             </li>
             <li>
-              <a href="">Studio</a>
+              <a href="/Studio">Studio</a>
             </li>
             <li>
               <a href="">Journal</a>
