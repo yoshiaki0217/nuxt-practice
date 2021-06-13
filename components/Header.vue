@@ -13,16 +13,16 @@
               <a href="/">Home</a>
             </li>
             <li>
-              <a href="/Art">Art</a>
+              <a href="/art">Art</a>
             </li>
             <li>
-              <a href="/Commissions">Commissions</a>
+              <a href="/commissions">Commissions</a>
             </li>
             <li>
-              <a href="/Studio">Studio</a>
+              <a href="/studio">Studio</a>
             </li>
             <li>
-              <a href="">Journal</a>
+              <a href="journal">Journal</a>
             </li>
           </ul>
         </nav>
